@@ -20,12 +20,9 @@ This project simulates a real-world business scenario where a company wants to u
 ## Project Structure
 
 sql-customer-payments-analysis/
-  data/  
     customers_sample.csv  
     invoices_sample.csv  
-    payments_sample.csv  
-    data_structure.png  
-  reports/  
+    payments_sample.csv
     data_analysis_report_queries.pdf  
     data_analysis_report_insights.pdf  
     executive_summary.pdf  
