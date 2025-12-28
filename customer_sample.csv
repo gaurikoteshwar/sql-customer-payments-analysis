@@ -1,0 +1,10 @@
+﻿CustomerID,CustomerName,CustomerSegment,Country
+1,Customer 1,SMB,France
+2,Customer 2,Enterprise,France
+3,Customer 3,SMB,UK
+4,Customer 4,SMB,USA
+5,Customer 5,Enterprise,Germany
+6,Customer 6,Enterprise,Germany
+7,Customer 7,Enterprise,USA
+8,Customer 8,SMB,France
+9,Customer 9,Enterprise,Canada
